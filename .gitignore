@@ -1,0 +1,9 @@
+.idea/
+.settings/
+.vscode/
+bin/
+build/
+gradle/
+out/
+acme_customer_engagement.iml
+weather_data.json
